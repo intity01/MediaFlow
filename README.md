@@ -97,8 +97,6 @@ MIT License - Free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 <div align="center">
 
-Made with love in Thailand
-
 Special thanks to all open source contributors
 
 </div>
