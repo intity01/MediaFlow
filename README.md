@@ -1,6 +1,9 @@
 <div align="center">
 
 # MediaFlow
+<p align="center">
+  <img src="assets/showcase.png" width="100%" alt="MediaFlow Showcase">
+</p>
 
 **Free & Open Source Media Toolkit**
 
